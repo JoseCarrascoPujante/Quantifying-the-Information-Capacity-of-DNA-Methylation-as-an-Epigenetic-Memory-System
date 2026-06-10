@@ -7,7 +7,7 @@ title: >-
   DNA Methylation as an Epigenetic Memory System"
 abstract: >-
   This package includes all the code and data necessary to reproduce the results of
-  the manuscript "Quantifying the Information Capacity of DNA Methylation 
+  the manuscript "Quantifying the Information Capacity of DNA Methylation
   as an Epigenetic Memory System". The software applies Shannon Entropy to quantify
   the information capacity DNA methylations encode at the genome-wide level.
   It also quantifies the contribution of methylation to distinguishing cell types
@@ -38,7 +38,7 @@ preferred-citation:
   status: submitted
   authors:
     - family-names: De la Fuente
-      given-names: Ildefonso M.    
+      given-names: Ildefonso M.
     - family-names: Carrasco-Pujante
       given-names: Jose
     - family-names: Fedetz
@@ -48,7 +48,7 @@ preferred-citation:
     - family-names: Malaina
       given-names: Iker
     - family-names: Camino-Pontes
-      given-names: Borja  	  
+      given-names: Borja
     - family-names: Pérez-Yarza
       given-names: Gorka
     - family-names: Martínez
