@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: >-
+  If you use this reproducibility package, please cite both the archived
+  software/data package and the associated manuscript.
+title: >-
+  Reproducibility package for "Quantifying the Information Capacity of
+  DNA Methylation as an Epigenetic Memory System"
+abstract: >-
+  This package includes all the code and data necessary to reproduce the results of
+  the manuscript "Quantifying the Information Capacity of DNA Methylation 
+  as an Epigenetic Memory System". The software applies Shannon Entropy to quantify
+  the information capacity DNA methylations encode at the genome-wide level.
+  It also quantifies the contribution of methylation to distinguishing cell types
+  or regulatory cellular states, formulated using the mutual information between
+  methylation pattern M and cellular identity C.
+type: software
+authors:
+  - family-names: Carrasco-Pujante
+    given-names: Jose
+    orcid: https://orcid.org/0000-0001-6490-738X
+version: 0.0.1-pre
+date-released: 2026-06-11
+doi: 10.5281/zenodo.20633508
+url: https://doi.org/10.5281/zenodo.20633508
+repository-code: >-
+  https://github.com/JoseCarrascoPujante/Quantifying-the-Information-Capacity-of-DNA-Methylation-as-an-Epigenetic-Memory-System
+license: MIT
+keywords:
+  - DNA methylation
+  - epigenetic memory
+  - methylome information capacity
+  - CpG methylation
+  - Shannon entropy
+  - epigenetic regulation
+preferred-citation:
+  type: article
+  title: Quantifying the Information Capacity of DNA Methylation as an Epigenetic Memory System
+  status: submitted
+  authors:
+    - family-names: De la Fuente
+      given-names: Ildefonso M.    
+    - family-names: Carrasco-Pujante
+      given-names: Jose
+    - family-names: Fedetz
+      given-names: Maria
+    - family-names: Legarreta
+      given-names: Leire
+    - family-names: Malaina
+      given-names: Iker
+    - family-names: Camino-Pontes
+      given-names: Borja  	  
+    - family-names: Pérez-Yarza
+      given-names: Gorka
+    - family-names: Martínez
+      given-names: Luis
+    - family-names: Cortés
+      given-names: Jesús M.
+    - family-names: López
+      given-names: Jose Ignacio
